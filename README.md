@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**hglong16/hglong16** is a ✨ _handsome guy_ ✨ 
+**hglong16/hglong16** is a ✨ _handsome guy_ ✨  ![](https://komarev.com/ghpvc/?username=hglong16
 
 Here are some ideas to get you started:
 
