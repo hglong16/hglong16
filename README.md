@@ -1,7 +1,7 @@
 ### Hi there 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yoyo930021&label=Profile%20views&color=0e75b6&style=flat" alt="yoyo930021" /> </p>
 
-
-**hglong16/hglong16** is a ✨ _handsome guy_ ✨  ![](https://komarev.com/ghpvc/?username=hglong16
+**hglong16/hglong16** is a ✨ _handsome guy_ ✨  
 
 Here are some ideas to get you started:
 
