@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on **Odoo & Python** Project
 - 🤔 I’m looking for help with **Python**
-- 💬 Ask me about Digital **Marketing**
 - 📫 How to reach me: *None*
 - 😄 Pronouns: _hg_
 - ⚡ Fun fact: [So handsome](https://spiderum.com?utm_source=github&utm_medium=hglong_git)
