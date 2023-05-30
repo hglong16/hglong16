@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: _hg_
 - ⚡ Fun fact: [So handsome](https://spiderum.com?utm_source=github&utm_medium=hglong_git)
 - Developer at: [vuadabong.com](https://vuadabong.com)
+```
+All problems in computer science can be solved by adding another level of indirection.
 
+— David Wheeler
+```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hglong16&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
