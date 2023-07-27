@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **MercTech**
+- 🔭 I’m currently working on **MercTechs**
 - 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on **Odoo & Python** Project
 - 🤔 I’m looking for help with **Python**
