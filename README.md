@@ -2,16 +2,7 @@
 
 **hglong16/hglong16** is a ✨ _handsome guy_ ✨  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **MercTechs**
-- 🌱 I’m currently learning **Rust**
-- 👯 I’m looking to collaborate on **Odoo & Python** Project
-- 🤔 I’m looking for help with **Python**
-- 📫 How to reach me: *None*
-- 😄 Pronouns: _hg_
-- ⚡ Fun fact: [So handsome](https://spiderum.com?utm_source=github&utm_medium=hglong_git)
-- Developer at: [vuadabong.com](https://vuadabong.com)
+**Typescript** - **Python** - **Lua** - **C++**
 ```
 All problems in computer science can be solved by adding another level of indirection.
 
