@@ -2,7 +2,7 @@
 
 **hglong16/hglong16** is a ✨ _handsome guy_ ✨  
 
-**Typescript** - **Python** - **Lua** - **C++**
+**Typescript** - **Python** - **Dart** - **Lua** - **C++**
 ```
 All problems in computer science can be solved by adding another level of indirection.
 
